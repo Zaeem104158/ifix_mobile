@@ -3,7 +3,7 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
-import 'package:ifix_mobile/app_pages/auth/login_page.dart';
+import 'package:ifix_mobile/app_pages/auth/login/login_page.dart';
 import 'package:ifix_mobile/components/button_component.dart';
 import 'package:ifix_mobile/components/text_component.dart';
 import 'package:ifix_mobile/utils/shared_pref.dart';
